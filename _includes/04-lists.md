@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- don't sleep
+- work hard
+- be smart
+- be patient
