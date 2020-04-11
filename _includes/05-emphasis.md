@@ -1,7 +1,8 @@
-* *don't sleep*
-* *work hard*
-* *be smart*
-* *be patient*
-  * **like me**
-  * **lol**
+*javascript*
+_python_
+
+**node.js**
+__dql__
+
+_You **powershell** combine them_
 
